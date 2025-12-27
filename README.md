@@ -7,55 +7,32 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+# Online Food_Booking_Management System
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+A Web application Food Booking System built on laravel framework with Mysql Database and CRUD operations.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## User Module
+### Home
+<img width="1901" height="882" alt="Home" src="https://github.com/user-attachments/assets/dda08f17-153a-4536-bf04-19da66142896" />
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+### About
+<img width="1902" height="882" alt="About" src="https://github.com/user-attachments/assets/d1db6748-2b3c-4748-bba4-ab9d692edce1" />
 
-## Learning Laravel
+### Menus
+<img width="1907" height="888" alt="menu" src="https://github.com/user-attachments/assets/343fefc2-2a21-4b58-bc82-1b841523dc4d" />
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+### Cart
+<img width="1906" height="881" alt="Cart" src="https://github.com/user-attachments/assets/b40f9727-1073-4451-a44a-d797557dda17" />
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## Admin Module
+### Home
+<img width="1896" height="878" alt="admin_home" src="https://github.com/user-attachments/assets/1b8f43dd-9c71-4c5b-a00b-caefd5f75157" />
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+### Add Food
+<img width="1900" height="873" alt="admin_Add_food" src="https://github.com/user-attachments/assets/2c32a35a-39fe-45b1-9639-69306335fffc" />
 
-## Laravel Sponsors
+### View Food
+<img width="1903" height="872" alt="admin_view_food" src="https://github.com/user-attachments/assets/eafa14ed-036e-4adb-87c6-821c024bd988" />
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development)**
-- **[Active Logic](https://activelogic.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Orders
+<img width="1885" height="861" alt="admin_orders" src="https://github.com/user-attachments/assets/62df25f5-5430-41a0-9122-a05db30c5c80" />
